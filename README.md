@@ -26,7 +26,7 @@ git clone [https://github.com/jhonywsantos/estilizacao-3d-cozinha]
 2. Acesse o diretório do projeto:
 
 ```bash
-cd 3D-Kitchen-Pure
+cd estilizacao-3D-cozinha
 ```
 
 3. Instale as dependências (se aplicável):
