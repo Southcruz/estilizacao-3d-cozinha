@@ -1,6 +1,6 @@
 # Estilização de Cozinha 3D
 
-Um projeto interativo de cozinha em 3D desenvolvido com tecnologias web modernas.
+Projeto interativo desenvolvido pelos discentes do curso de Ciência da Computação na Universidade Federal de Alagoas, Campus Arapiraca, solictado pela docente Nathália Alves, na disciplina de Computação Gráfica, Turma 2025. Este trabalho apresenta a construção de um ambiente (cozinha) em 3D desenvolvido com tecnologias web modernas, demonstrando de forma prática a aplicação das teorias e conceitos abordados em sala de aula, como: iluminação, luz, sombra e etc.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -73,7 +73,7 @@ projeto/
 
 ## 📞 Contato
 
-Desenvolvido por (nomes + user)
+Desenvolvido por: [Igor Mariano Alencar e Silva](), [Jhony Wictor do Nascimento Santos](https://github.com/jhonywsantos), [Lucas Rosendo de Farias](), [Washington Medeiros Mazzone Gaia]()
 
 ---
 
