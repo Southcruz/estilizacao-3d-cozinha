@@ -1,4 +1,3 @@
-````markdown
 # Estilização de Cozinha 3D
 
 Um projeto interativo de cozinha em 3D desenvolvido com tecnologias web modernas.
@@ -79,8 +78,5 @@ Desenvolvido por (nomes + user)
 ---
 
 *Este projeto demonstra capacidades avançadas de WebGL e desenvolvimento frontend para experiências imersivas em 3D.*
-
-```
-```
 
 
