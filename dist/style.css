@@ -2153,7 +2153,6 @@ body {
   transform: rotateX(180deg) translateZ(1.5vw);
 }
 .circle-a__side:nth-of-type(19) {
-  transform: rotateX(190deg) translateZ(1.5vw);
 }
 .circle-a__side:nth-of-type(20) {
   transform: rotateX(200deg) translateZ(1.5vw);
@@ -2229,7 +2228,6 @@ body {
 }
 .circle-a__side:nth-of-type(8) {
   background-color: #cecbc9;
-}
   transform: rotateX(190deg) translateZ(1.5vw);
 }
 .circle-a__side:nth-of-type(20) {
@@ -3095,43 +3093,43 @@ body {
 .chair-lt__front,
 .chair-rb__front,
 .chair-rt__front {
-  background-color: #f5f5f5;
+  background-color: #bb8f67;
 }
 .chair-t__back,
 .chair-lb__back,
 .chair-lt__back,
 .chair-rb__back,
 .chair-rt__back {
-  background-color: #c5c5c5;
+  background-color: #a2744a;
 }
 .chair-t__right,
 .chair-lb__right,
 .chair-lt__right,
 .chair-rb__right,
 .chair-rt__right {
-  background-color: #e0dfdd;
+  background-color: #813b04;
 }
 .chair-t__left,
 .chair-lb__left,
 .chair-lt__left,
 .chair-rb__left,
 .chair-rt__left {
-  background-color: #57524E;
+  background-color: #542901;
 }
 .chair-t__top,
 .chair-lb__top,
 .chair-lt__top,
 .chair-rb__top,
 .chair-rt__top {
-  background-color: #f2ded2;
-  background-image: linear-gradient(35deg, #c2a08a, transparent, #745941);
+  background-color: #d5c19e;
+  background-image: linear-gradient(35deg, #ffeadd, transparent, #b89973);
 }
 .chair-t__bottom,
 .chair-lb__bottom,
 .chair-lt__bottom,
 .chair-rb__bottom,
 .chair-rt__bottom {
-  background-color: #251B18;
+  background-color: #6a3104;
 }
 
 .chair-lb {
