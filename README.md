@@ -20,7 +20,7 @@ Projeto interativo desenvolvido pelos discentes do curso de Ciência da Computa�
 
 1. Clone o repositório:
 ```bash
-git clone [URL-do-repositorio]
+git clone [https://github.com/jhonywsantos/estilizacao-3d-cozinha]
 ````
 
 2. Acesse o diretório do projeto:
