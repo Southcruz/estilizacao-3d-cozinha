@@ -78,7 +78,7 @@ projeto/
 
 ## 📞 Contato
 
-Desenvolvido por: [Igor Mariano Alencar e Silva](), [Jhony Wictor do Nascimento Santos](https://github.com/jhonywsantos), [Lucas Rosendo de Farias](), [Washington Medeiros Mazzone Gaia]()
+Desenvolvido por: [Igor Mariano Alencar e Silva](), [Jhony Wictor do Nascimento Santos](https://github.com/jhonywsantos), [Lucas Rosendo de Farias]()
 
 ---
 
